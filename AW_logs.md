@@ -7,4 +7,4 @@
 
 **Thoughts:** Plans to finish HTML5, CSS3, BootStrap, & Vanilla JS.
 
-**Link to work:** [ForEx Tool/App](Forex-Tool.epizy.com)
+**Link to work:** (Forex-Tool.epizy.com)
